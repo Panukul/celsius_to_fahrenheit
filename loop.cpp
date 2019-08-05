@@ -10,7 +10,7 @@ void main()
 	cout<<"///////////////Menu///////////////\n";
 	cout<<"1.Register\n";
 	cout<<"2.Login\n";
-	cout<<"3.Exit Program\n";
+	cout<<"Q.Exit Program\n";
 	cout<<"Enter Munu:";
 	cin>>menu;
 	switch(menu)
