@@ -16,7 +16,7 @@ void main()
 	switch(menu)
 	{
 	case '1' :
-		cout<<"Register\n";
+		cout<<"**********Register**********\n";
 		cout<<"Input Username :";
 		cin>>name;
 		cout<<"Input Password :";
@@ -24,7 +24,7 @@ void main()
 		break;
 
 	case '2' :
-		cout<<"Login\n";
+		cout<<"**********Login**********\n";
 		cout<<"Input Username :";
 		cin>>loguser;
 		cout<<"Input Password :";
